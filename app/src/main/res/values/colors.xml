@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="dark_text">#212121</color>
+    <color name="colorPrimaryy">#ff223b</color>
+    <color name="colorPrimarysplash">#affc0004</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="selector2normal">#00e3eff9</color>
+
+    <!--NİGHTMODE KODLARI!-->
+
+
+    <color name="gray_background">#757575</color>
+    <color name="gray_backgroundd">#96afafaf</color>
+
+    <color name="colorPrimary_n">#111111</color>
+    <color name="colorPrimarywidget">#cc101010</color>
+
+
+    <color name="colorPrimaryLightDefault">#ff223b</color>
+    <color name="colorAccentLightDefault">#ff223b</color>
+
+    <color name="colorPrimaryDarkDefault">#37474F</color>
+    <color name="colorAccentDarkDefault">#2196F3</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="foreground_color_normal">@android:color/transparent</color>
+    <color name="foreground_color_pressed">#32000000</color>
+    <color name="demo_dark_transparent">#24000000</color>
+
+</resources>
